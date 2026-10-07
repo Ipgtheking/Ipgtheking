@@ -25,8 +25,6 @@ Current direction:
 - Future AR/VR support
 - Potential BIM / IFC / glTF workflows
 
-Repository: ""Ipgtheking/avarch"" (https://github.com/Ipgtheking/avarch)
-
 Current stack:
 
 TypeScript
@@ -166,15 +164,5 @@ Computer Vision
 📌 Featured Projects
 
 Project| Description| Technologies
-"AvArch" (https://github.com/Ipgtheking/avarch)| AI-assisted architectural 3D visualization| TypeScript, Three.js, Vite
-More coming...| Building and experimenting| 🚧
-
----
-
-⚡ Philosophy
-
-«Build → Break → Understand → Fix → Ship»
-
-I don't want to just know how to use a tool.
-
-I want to understand what's happening underneath it.
+"AvArch"| AI-assisted architectural 3D visualization| TypeScript, Three.js, Vite
+More coming...| Building and experimenting|
