@@ -1,168 +1,119 @@
-Hi, I'm IPG 👋
+<div align="center">
 
-I'm a student developer from India focused on software development, AI-assisted development, 3D web applications, and cybersecurity.
+# IPG
 
-I learn primarily by building projects, experimenting with new technologies, and understanding how things work under the hood.
+### Student Developer · AI · Web · 3D · Cybersecurity
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Ipgtheking-181717?style=for-the-badge&logo=github)](https://github.com/Ipgtheking)
 
-🚀 What I'm Working On
-
-🏗️ AvArch
-
-AvArch is an architecture-focused 3D visualization platform I'm building.
-
-The goal is to turn architectural floor plans into interactive 3D environments that architects, engineers, and clients can explore.
-
-Current direction:
-
-- Floor plan → structured architectural data
-- Procedural 3D generation
-- Interactive first-person walkthroughs
-- Furniture and object placement
-- Interactive doors/windows
-- AI-assisted floor-plan understanding
-- Future AR/VR support
-- Potential BIM / IFC / glTF workflows
-
-Current stack:
-
-TypeScript
-Three.js
-Vite
-JavaScript
-HTML / CSS
-Node.js
-Git / GitHub
+</div>
 
 ---
 
-💻 Tech Stack
+## `> whoami`
+
+I'm a student developer from India interested in building software at the intersection of:
+
+**AI · Web Development · 3D Graphics · Cybersecurity**
+
+I learn by building, experimenting, breaking things, and understanding how the systems underneath actually work.
+
+Currently exploring **AI-assisted development, web applications, 3D graphics, and security**.
+
+---
+
+# ⚡ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### Frameworks & Libraries
 
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-### Tools
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-
-🔐 Cybersecurity
-
-I'm currently focused on web application security and offensive security fundamentals.
-
-Learning
-
-- HTTP & HTTPS
-- Requests / responses
-- Headers
-- Cookies & sessions
-- Authentication
-- APIs
-- Web application architecture
-- Reconnaissance
-- XSS
-- SQL injection
-- CSRF
-- SSRF
-- Networking fundamentals
-- CTFs
-
-Tools
-
-Burp Suite
-Wireshark
-Nessus
-GVM
-SpiderFoot
-Kali Linux
-Termux
-PCAPdroid
-
-My primary interest is understanding web applications and their attack surfaces, rather than binary exploitation.
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
 
 ---
 
-🤖 AI & AI-Assisted Development
+# 🧠 Areas I'm Exploring
 
-I use AI heavily as part of my development workflow.
+### 🤖 Artificial Intelligence
 
-Tools I've worked with include:
+- AI-assisted software development
+- Computer vision
+- AI application integration
+- AI → structured data pipelines
+- AI-assisted generation
 
+### 🌐 Web Development
+
+- Modern JavaScript / TypeScript
+- Frontend architecture
+- APIs
+- Web application architecture
+- Interactive web applications
+
+### 🎮 3D & Graphics
+
+- Three.js
+- Real-time 3D on the web
+- Procedural generation
+- Interactive environments
+- Exploring AR / VR technologies
+
+### 🔐 Cybersecurity
+
+- Web application security
+- HTTP / HTTPS
+- APIs
+- Authentication & sessions
+- Reconnaissance
+- Networking
+- XSS / SQLi / CSRF / SSRF
+- CTFs
+
+---
+
+# 🛠️ Projects
+
+### 🏗️ AvArch
+
+An architecture-focused software project exploring **AI, 3D visualization, and interactive architectural experiences**.
+
+→ [View the repository](https://github.com/Ipgtheking/avarch)
+
+### 🚧 More projects coming
+
+I'm currently experimenting with different areas of software development and turning the most interesting ideas into projects.
+
+---
+
+# 🤖 AI-Assisted Development
+
+AI is an important part of my development workflow.
+
+Tools I've experimented with:
+
+```text
 Claude
 ChatGPT
 Cursor
 Lovable
-
-I'm particularly interested in:
-
-- AI-assisted software development
-- Computer vision
-- AI → structured data pipelines
-- AI-assisted 3D generation
-- AI integration into real applications
-- Understanding AI systems beyond simply using APIs
-
-One of my current goals is figuring out how to integrate AI vision into AvArch for interpreting architectural floor plans.
-
----
-
-🧰 Development Environment
-
-Windows
-Linux / Kali Linux
-Termux
-VirtualBox
-Node.js
-npm
-Git
-GitHub
-VS Code
-
----
-
-📚 Currently Learning
-
-TypeScript
-Three.js
-Software Architecture
-Web Security
-Networking
-AI Engineering
-Computer Vision
-3D Graphics
-
----
-
-🎯 Technical Goals
-
-- Build and ship real products instead of only tutorials
-- Take AvArch from prototype → usable MVP
-- Build an AI-powered floor-plan → 3D pipeline
-- Become stronger at TypeScript and software architecture
-- Develop deeper web security skills
-- Learn computer vision and practical AI engineering
-- Contribute to open-source projects
-- Build a strong portfolio of technical projects
-
----
-
-📌 Featured Projects
-
-Project| Description| Technologies
-"AvArch"| AI-assisted architectural 3D visualization| TypeScript, Three.js, Vite
-More coming...| Building and experimenting|
